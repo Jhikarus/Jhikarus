@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings wanderer!
+
+Take a break and enjoy the air outside.
+Have a nice day :)
+
+
 
 <!--
 **Jhikarus/Jhikarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
